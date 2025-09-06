@@ -44,7 +44,6 @@ This project demonstrates **end-to-end data handling**, from CSV ingestion and E
 
 ## Installation & Setup
 1. Clone the repository:
-```bash
 git clone https://github.com/your-username/customer360-dash.git
 cd customer360-dash
 
